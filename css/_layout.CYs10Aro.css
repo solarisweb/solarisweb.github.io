@@ -52,7 +52,7 @@ body {
     --grey-nine: hsla(240, 6%, 7%, .3);
     --grey-ten: hsl(230, 9.5%, 17.5%);
     --grey-eleven: hsl(208, 10%, 40%);
-    --red-one: hsl(333, 84%, 62%);
+    --red-one: hsl(206, 100%, 81%);
     --bezier-one: cubic-bezier(.25, .46, .45, .94);
     --drop-shadow-one: 0px 4px 5px 0px rgba(0, 0, 0, .14), 0px 1px 10px 0px rgba(0, 0, 0, .12), 0px 2px 4px -1px rgba(0, 0, 0, .2)
 }
